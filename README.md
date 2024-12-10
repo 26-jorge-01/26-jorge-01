@@ -60,6 +60,13 @@ Siempre estoy explorando nuevas tecnologías para mantenerme actualizado en un m
 
 ---
 
+## 📄 Descarga mi CV
+
+Puedes consultar mi CV para más detalles sobre mi experiencia y formación:  
+[Ver mi CV aquí](https://drive.google.com/file/d/1K8joxR0EV0YN_i0hFqAoYOJu-8jhD60X/view?usp=sharing)
+
+---
+
 ## 🎯 Lo que me motiva
 
 Creo en el poder de los datos para transformar el mundo. Mi objetivo es combinar habilidades técnicas y creatividad para:
@@ -84,10 +91,9 @@ Creo en el poder de los datos para transformar el mundo. Mi objetivo es combinar
 ## 🌐 Contáctame
 
 ¿Interesado en colaborar o discutir ideas? Aquí puedes encontrarme:  
-- [GitHub](https://github.com/26-jorge-01)  
-- [LinkedIn](https://www.linkedin.com/in/jorge-andr%C3%A9s-iba%C3%B1ez-huertas-135a121b2)
+- [LinkedIn](https://www.linkedin.com/in/jorge-andr%C3%A9s-ib%C3%A1nez-huertas-135a121b2)
 - 📧 jonan0804@gmail.com  
-- 📞 +57 304 556 05 27  
+- 📞 +57 304 556 05 27
 
 ---
 
