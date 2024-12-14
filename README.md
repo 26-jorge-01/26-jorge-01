@@ -9,8 +9,9 @@ Soy un **Data Engineer** y **Data Analyst** apasionado por transformar datos en 
 - **Lenguajes de Programación:** Python, R, C#, Java  
 - **Bases de Datos:** SQL, MySQL, PostgreSQL, Oracle  
 - **Frameworks y Librerías:** Sklearn, Django, Flask, FastAPI, Pytorch  
-- **Automatización y Visualización:** Power BI, Selenium, Make, Power Automate  
-- **Nube y DevOps:** Databricks, Azure, AWS  
+- **Automatización y Orquestación:** Airflow, Selenium, Make, Power Automate, n8n
+- **Visualización y Business Intelligence:** Power BI
+- **Nube y DevOps:** Docker, Databricks, Azure, AWS  
 - **Desarrollo de Software:** Microservicios, APIs, Pruebas automatizadas  
 
 Siempre estoy explorando nuevas tecnologías para mantenerme actualizado en un mundo en constante evolución.
@@ -22,8 +23,8 @@ Siempre estoy explorando nuevas tecnologías para mantenerme actualizado en un m
 ### [🌐 Democratización de Compras Públicas](#)
 - **Descripción:** Desarrollé herramientas que mejoran la accesibilidad y transparencia en la contratación pública de Colombia. 
 - **Impacto:** Automatización del análisis y visualización de datos masivos con reportes interactivos en Power BI.
-- **Tecnologías:** Python, SQL, Databricks, Azure, Power BI
-- **Repositorio:** [Repositorio Democratización](https://github.com/gobataco/GOBDATA.CO-API)
+- **Tecnologías:** Python, MySQL, Databricks, Azure, Docker, Airflow
+- **Repositorio:** [GOBDATA.CO-API](https://github.com/gobataco/GOBDATA.CO-API)
 
 ---
 
