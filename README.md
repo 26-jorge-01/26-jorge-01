@@ -20,6 +20,11 @@ Siempre estoy explorando nuevas tecnologías para mantenerme actualizado en un m
 
 ## 🚀 Proyectos Destacados
 
+### [♟️ Generador de Ejercicios de Ajedrez](#)
+- **Descripción:** Herramienta en Streamlit que genera ejercicios de ajedrez según temática y nivel de Elo, usando la base pública de puzzles de Lichess.
+- **Tecnologías:** Python, Streamlit, Pandas, Parquet, Lichess Data Base, Google Drive
+- **Repositorio:** [Generador de Ejercicios de Ajedrez](https://github.com/26-jorge-01/chess-exercise-generator/tree/main)
+
 ### [🌐 Democratización de Compras Públicas](#)
 - **Descripción:** Desarrollé herramientas que mejoran la accesibilidad y transparencia en la contratación pública de Colombia. 
 - **Impacto:** Automatización del análisis y visualización de datos masivos con reportes interactivos en Power BI.
