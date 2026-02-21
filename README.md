@@ -1,110 +1,96 @@
-# 👋 Hola, soy Jorge Andrés Ibáñez
+# Jorge Andrés Ibáñez
 
-Soy un **Data Engineer** y **Data Analyst** apasionado por transformar datos en herramientas prácticas que generen impacto. Mi enfoque está en el desarrollo de soluciones escalables, la automatización de procesos y la aplicación de la inteligencia artificial para resolver problemas complejos. 🚀
+**Data & Backend Engineer for Analytics, Automation, and Decision Systems**
 
----
+I help teams and organizations turn raw data into reliable systems that support analytics, optimization, and automated decision-making.
 
-## 🛠 Stack Tecnológico
+My work focuses on designing and building data pipelines, analytical models, and backend APIs that are production-ready, well-structured, and easy to evolve. I typically work on projects where data quality, scalability, and long-term maintainability matter.
 
-- **Lenguajes de Programación:** Python, R, C#, Java  
-- **Bases de Datos:** SQL, MySQL, PostgreSQL, Oracle  
-- **Frameworks y Librerías:** Sklearn, Django, Flask, FastAPI, Pytorch  
-- **Automatización y Orquestación:** Airflow, Selenium, Make, Power Automate, n8n
-- **Visualización y Business Intelligence:** Power BI
-- **Nube y DevOps:** Docker, Databricks, Azure, AWS  
-- **Desarrollo de Software:** Microservicios, APIs, Pruebas automatizadas  
-
-Siempre estoy explorando nuevas tecnologías para mantenerme actualizado en un mundo en constante evolución.
+This GitHub profile is structured as a proof of execution, showcasing how I approach real problems end-to-end.
 
 ---
 
-## 🚀 Proyectos Destacados
+## What I Can Help You Build
 
-### [♟️ Generador de Ejercicios de Ajedrez](#)
-  - **Descripción:** Herramienta en Streamlit que genera ejercicios de ajedrez según temática y nivel de Elo, usando la base pública de puzzles de Lichess.
-  - **Tecnologías:** Python, Streamlit, Pandas, Parquet, Lichess Data Base, Google Drive
-  - **Repositorio:** [Generador de Ejercicios de Ajedrez](https://github.com/26-jorge-01/chess-exercise-generator/tree/main)
+I usually get involved when a project needs structure, not just scripts.
 
----
+### 📊 Data Pipelines & Analytics Foundations
+- **End-to-end data pipelines** (ingestion → validation → modeling → consumption)
+- **Analytics-ready and ML-ready datasets**
+- **Analytical data models** designed for growth and change
+- **Automation, testing, and monitoring** from day one
 
-### [🌐 Democratización de Compras Públicas](#)
-  - **Descripción:** Desarrollé herramientas que mejoran la accesibilidad y transparencia en la contratación pública de Colombia. 
-  - **Impacto:** Automatización del análisis y visualización de datos masivos con reportes interactivos en Power BI.
-  - **Tecnologías:** Python, MySQL, Databricks, Azure, Docker, Airflow
-  - **Repositorio:** [GOBDATA.CO-API](https://github.com/gobataco/GOBDATA.CO-API)
+### ⚙️ Data-Driven Backend Systems
+- **APIs** that expose data, logic, or optimization results
+- **Systems** that combine data + algorithms + real constraints
+- **Clean separation** between data, business logic, and infrastructure
+- **Reliable data flows** between services
 
----
-
-### [📊 Lotel: Pricing Inteligente para Hoteles](#)
-  - **Descripción:** Diseñé una plataforma que asesora a hoteleros en estrategias de precios y configuración de servicios.
-  - **Impacto:** Incremento en la competitividad de pequeños hoteleros mediante decisiones informadas por datos.
-  - **Tecnologías:** Python, Flask, FastAPI, AWS, Selenium, Make
-  - **Repositorio:** [Repositorio Lotel](#)
+### 🛡️ Reliability, Governance & Scale
+- **Data quality rules**, schemas, and validation layers
+- **Reproducible pipelines** and documented transformations
+- **Systems designed to survive** team changes and evolving requirements
 
 ---
 
-### [🦠 CAsimulations: Modelos Basados en Agentes](#)
-  - **Descripción:** Biblioteca en Python para simular la propagación de enfermedades utilizando topología computacional y autómatas celulares.
-  - **Impacto:** Reconocida como tesis meritoria, esta herramienta ofrece un enfoque innovador para modelar dinámicas complejas.
-  - **Tecnologías:** Python, Git
-  - **Repositorio:** [Repositorio CAsimulations](#)
+## How I Work
+
+- **I design systems, not one-off solutions**
+- **I prioritize clarity, structure, and documentation**
+- **I build with the assumption that someone else will maintain it**
+- **I favor simple, explicit designs over clever but fragile ones**
+
+Most of my projects start as MVPs and are designed to scale without rewrites.
 
 ---
 
-### [📥 Automatización de Flujos de Contratación Pública](#)
-  - **Descripción:** Pipeline robusto para integrar y limpiar datos del sistema SECOP, mejorando su accesibilidad y calidad.
-  - **Impacto:** Facilita el acceso a datos limpios y estandarizados para instituciones públicas.
-  - **Tecnologías:** Python, SQL, Databricks, Power BI
-  - **Repositorio:** [Repositorio Automatización](#)
+## Selected Projects
+
+These projects are presented as case studies, not demos.
+
+### [Analytics Modeling Lab](https://github.com/26-jorge-01/analytics-modeling-lab)
+**Data Architecture & Analytics Engineering Case Study**
+
+*   **What problem this addresses:** Many teams struggle with analytics because the data model was never designed intentionally. This project explores how different modeling strategies affect performance, governance, and long-term usability.
+*   **What I built:** The same dataset implemented using 3NF, Data Vault, Star Schema, and Galaxy Schema. Automated pipelines, transformations, and built-in data quality checks.
+*   **What this proves:** I can design analytical foundations, not just queries. I understand trade-offs between speed, flexibility, and governance.
+*   **Typical client use cases:** Building a new analytics platform, refactoring an existing data warehouse, or preparing data foundations for BI or ML.
+
+### [Smart Fuel Router API](https://github.com/26-jorge-01/smart-fuel-router-API)
+**Optimization-Driven Backend System**
+
+*   **What problem this addresses:** Operational decisions (routes, costs, constraints) are often made manually or with rigid tools. This project shows how to embed decision logic into a backend service.
+*   **What I built:** A backend API that computes optimized fuel routing strategies, integrating geospatial data, cost constraints, and algorithmic decision logic in a containerized, testable architecture.
+*   **What this proves:** I can build production-ready backend systems and translate real-world constraints into data logic.
+*   **Typical client use cases:** Logistics and routing optimization, cost optimization tools, or internal decision engines exposed via APIs.
 
 ---
 
-## 🏆 Reconocimientos y Logros
+## Technical Capabilities
 
-  - **Tesis Meritoria:** Reconocimiento por la tesis *CAsimulations*, que aplicó modelado matemático y topología computacional a la propagación de enfermedades.
-  - **Beca por Excelencia Académica:** Otorgada por desempeño sobresaliente en mi carrera de Matemáticas en la Universidad Central.
-  - **Desarrollo de Software:** Creación de un paquete Python para soportar simulaciones en *CAsimulations*.
-  - **Impacto Público:** Contribuciones destacadas en la democratización de datos de contratación pública en Colombia.
-
----
-
-## 📄 Descarga mi CV
-
-  Puedes consultar mi CV para más detalles sobre mi experiencia y formación:  
-  [Ver mi CV aquí](https://drive.google.com/file/d/1K8joxR0EV0YN_i0hFqAoYOJu-8jhD60X/view?usp=sharing)
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, SQL, R, C# |
+| **Data & Analytics** | PySpark, Databricks, PostgreSQL, PostGIS, dbt, Pandas, Power BI |
+| **Orchestration & Reliability** | Dagster, Airflow, scheduling, monitoring, data quality checks |
+| **Backend & Infrastructure** | Django, FastAPI, Docker, REST APIs, microservices |
+| **Cloud (practical experience)** | Azure (Databricks, Storage), AWS (Lambda, S3, RDS) |
 
 ---
 
-## 🎯 Lo que me motiva
+## Background That Matters
 
-  Creo en el poder de los datos para transformar el mundo. Mi objetivo es combinar habilidades técnicas y creatividad para:
-  - **Fomentar la transparencia:** Proyectos que democratizan el acceso a la información.
-  - **Simplificar procesos:** Soluciones que hacen la tecnología más accesible y útil para todos.
-  - **Aprender continuamente:** Desafiarme con tecnologías y metodologías emergentes.
-
----
-
-## 🎓 Formación
-
-  - **Maestría en Inteligencia Artificial (En curso)**  
-    Pontificia Universidad Javeriana.  
-    *Especialización en aprendizaje profundo y aplicaciones prácticas de IA.*
-
-  - **Matemático**  
-    Universidad Central.  
-    *Tesis: CAsimulations - Modelado de dinámicas topológicas.*
+- **3+ years building production data systems**
+- **Experience across:** Data Engineering, Applied ML support, and Backend development.
+- **Strong mathematical foundation:** BSc in Mathematics. This allows me to move comfortably between data, logic, and systems, depending on what the project needs.
 
 ---
 
-## 🌐 Contáctame
+## Working Together
 
-  ¿Interesado en colaborar o discutir ideas? Aquí puedes encontrarme:  
-  - [LinkedIn](https://www.linkedin.com/in/jorge-andr%C3%A9s-ib%C3%A1nez-huertas-135a121b2)
-  - 📧 jonan0804@gmail.com  
-  - 📞 +57 304 556 05 27
+I’m open to **freelance projects**, **contract roles**, and **short- or mid-term engagements**. If you need help building or restructuring data pipelines, analytics foundations, or data-driven backend systems, feel free to reach out.
 
----
+- **GitHub:** [26-jorge-01](https://github.com/26-jorge-01)
+- **LinkedIn:** [Jorge Andrés Ibáñez](https://www.linkedin.com/in/jorge-andr%C3%A9s-ib%C3%A1nez-huertas-135a121b2)
+- **Email:** [jonan0804@gmail.com](mailto:jonan0804@gmail.com)
 
-## 🎉 Gracias por tu visita
-
-  Espero que mis proyectos y experiencia te inspiren. Siempre estoy abierto a colaborar y aprender en nuevos desafíos. ¡Hablemos y creemos algo genial juntos! 🚀
