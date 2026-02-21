@@ -91,6 +91,6 @@ These projects are presented as case studies, not demos.
 I’m open to **freelance projects**, **contract roles**, and **short- or mid-term engagements**. If you need help building or restructuring data pipelines, analytics foundations, or data-driven backend systems, feel free to reach out.
 
 - **GitHub:** [26-jorge-01](https://github.com/26-jorge-01)
-- **LinkedIn:** [Jorge Andrés Ibáñez](https://www.linkedin.com/in/jorge-andr%C3%A9s-ib%C3%A1nez-huertas-135a121b2)
+- **LinkedIn:** [Jorge Andrés Ibáñez](https://www.linkedin.com/in/jorge-andres-ibanez-huertas/)
 - **Email:** [jonan0804@gmail.com](mailto:jonan0804@gmail.com)
 
