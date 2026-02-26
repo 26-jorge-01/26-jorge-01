@@ -44,25 +44,50 @@ Most of my projects start as MVPs and are designed to scale without rewrites.
 
 ---
 
-## Selected Projects
+## Projects & Case Studies
 
-These projects are presented as case studies, not demos.
+These projects represent real-world system design work — not demos.
+They focus on data architecture, backend systems, and operational decision logic.
+
+### [Business Operations Monitoring](https://github.com/26-jorge-01/business-operations-monitoring)
+
+**Operational Intelligence & Monitoring Platform (Current Project)**
+* **Problem:** Many organizations lack real-time visibility into operational performance. Data exists, but there’s no structured system to monitor business health, detect anomalies, and drive decisions.
+* **What I’m building:**
+  * An end-to-end monitoring system for business operations
+  * Structured data models to track KPIs and operational signals
+  * Automated pipelines and validation logic
+  * Monitoring-ready datasets designed for dashboards, alerts, and analysis
+* **What this demonstrates:**
+  * Translating business processes into measurable systems
+  * Designing analytics models for operational visibility
+  * Building reliable, decision-support data infrastructure
+* **Typical use cases:**
+  KPI monitoring systems, operational dashboards, anomaly detection pipelines, and executive reporting foundations.
 
 ### [Analytics Modeling Lab](https://github.com/26-jorge-01/analytics-modeling-lab)
 **Data Architecture & Analytics Engineering Case Study**
 
-*   **What problem this addresses:** Many teams struggle with analytics because the data model was never designed intentionally. This project explores how different modeling strategies affect performance, governance, and long-term usability.
-*   **What I built:** The same dataset implemented using 3NF, Data Vault, Star Schema, and Galaxy Schema. Automated pipelines, transformations, and built-in data quality checks.
-*   **What this proves:** I can design analytical foundations, not just queries. I understand trade-offs between speed, flexibility, and governance.
-*   **Typical client use cases:** Building a new analytics platform, refactoring an existing data warehouse, or preparing data foundations for BI or ML.
+* **Problem:** Many analytics platforms fail because the data model was never intentionally designed.
+* **Solution:** The same dataset implemented across 3NF, Data Vault, Star Schema, and Galaxy Schema, with automated pipelines and data quality checks.
+* **What this demonstrates:**
+  * Strong analytical data modeling fundamentals
+  * Understanding of performance vs flexibility trade-offs
+  * Ability to design analytics foundations, not just write queries
+* **Typical use cases:**
+  Data warehouse design, refactoring legacy analytics systems, BI/ML foundations.
 
 ### [Smart Fuel Router API](https://github.com/26-jorge-01/smart-fuel-router-API)
 **Optimization-Driven Backend System**
 
-*   **What problem this addresses:** Operational decisions (routes, costs, constraints) are often made manually or with rigid tools. This project shows how to embed decision logic into a backend service.
-*   **What I built:** A backend API that computes optimized fuel routing strategies, integrating geospatial data, cost constraints, and algorithmic decision logic in a containerized, testable architecture.
-*   **What this proves:** I can build production-ready backend systems and translate real-world constraints into data logic.
-*   **Typical client use cases:** Logistics and routing optimization, cost optimization tools, or internal decision engines exposed via APIs.
+* **Problem:** Operational decisions like routing and cost optimization are often manual or rigid.
+* **Solution:** A backend API that computes optimized fuel routing strategies using geospatial data and constraint logic.
+* **What this demonstrates:**
+  * Production-ready backend architecture
+  * Algorithmic decision modeling
+  * Containerized, testable systems
+* **Typical use cases:**
+  Logistics optimization, cost modeling engines, internal APIs for operational decisions.
 
 ---
 
