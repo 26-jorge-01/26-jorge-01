@@ -47,6 +47,7 @@ Most of my projects start as MVPs and are designed to scale without rewrites.
 ## Projects & Case Studies
 
 These projects represent real-world system design work — not demos.
+
 They focus on data architecture, backend systems, and operational decision logic.
 
 ### [Business Operations Monitoring](https://github.com/26-jorge-01/business-operations-monitoring)
