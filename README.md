@@ -50,22 +50,6 @@ These projects represent real-world system design work — not demos.
 
 They focus on data architecture, backend systems, and operational decision logic.
 
-### [Business Operations Monitoring](https://github.com/26-jorge-01/business-operations-monitoring)
-
-**Operational Intelligence & Monitoring Platform (Current Project)**
-* **Problem:** Many organizations lack real-time visibility into operational performance. Data exists, but there’s no structured system to monitor business health, detect anomalies, and drive decisions.
-* **What I’m building:**
-  * An end-to-end monitoring system for business operations
-  * Structured data models to track KPIs and operational signals
-  * Automated pipelines and validation logic
-  * Monitoring-ready datasets designed for dashboards, alerts, and analysis
-* **What this demonstrates:**
-  * Translating business processes into measurable systems
-  * Designing analytics models for operational visibility
-  * Building reliable, decision-support data infrastructure
-* **Typical use cases:**
-  KPI monitoring systems, operational dashboards, anomaly detection pipelines, and executive reporting foundations.
-
 ### [Analytics Modeling Lab](https://github.com/26-jorge-01/analytics-modeling-lab)
 **Data Architecture & Analytics Engineering Case Study**
 
